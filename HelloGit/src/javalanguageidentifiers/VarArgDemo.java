@@ -14,5 +14,6 @@ public class VarArgDemo {
 		}
 		System.out.println("Sum is :"+ total);
 	}
+	
 
 }
